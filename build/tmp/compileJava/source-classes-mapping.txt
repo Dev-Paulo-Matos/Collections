@@ -2,3 +2,9 @@ collections/Main.java
  collections.Main
 collections/list/ExemploList.java
  collections.list.ExemploList
+collections/queue/ExemploQueue.java
+ collections.queue.ExemploQueue
+collections/set/ExemploHashSet.java
+ collections.set.ExemploHashSet
+collections/set/ExemploLinkediHashSet.java
+ collections.set.ExemploLinkediHashSet
